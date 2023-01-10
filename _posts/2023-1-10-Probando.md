@@ -3,6 +3,6 @@ layout: post
 title: Probando
 ---
 
-#Probando
+# Probando
 
-Más líneas de prueba.
+Más líneas de **prueba**.
