@@ -3,7 +3,9 @@ layout: post
 title: Probando
 ---
 
-# Probando
+# Pruebas de Markdown
+
+## Subapartado
 
 Más líneas de **prueba**.
 
