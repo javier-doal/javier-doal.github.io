@@ -15,12 +15,11 @@ La primera vez que revisé partidas jugadas por *TD-Gammon* (el primer programa 
 	
 ![Diagrama 01.png]({{ site.baseurl }}/images/VsHG_Diagrama_01.png)
 
+![Diagrama 01.png]({{ site.baseurl }}/images/VsHG-Diagrama-01.png)
 
 ![_config.yml]({{ site.baseurl }}/images/VsHB_Diagrama_01.png)
 
-
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-
 
 ¿Qué podría ser más obvio que **13/8, 6/5**, verdad? ¡Sin embargo, *TD-Gammon* jugó el aparentemente inexplicable **13/8, 3/2** !  Inicialmente supuse que era una de esas peculiaridades de los programas de redes neuronales. Sabía que en posiciones simples los programas a menudo hacen movimientos extraños (y equivocados) porque su entrenamiento no les da suficiente información para trabajar con los principios correctos. Los expertos humanos generalmente superarán a los *bots* en este tipo de posiciones cuando se trata de pequeñas diferencias técnicas. Bromeé sobre esto con Gerry Tesauro, el inventor de *TD-Gammon*, y lo llamé el *juego extraño de TD*. 
 	
