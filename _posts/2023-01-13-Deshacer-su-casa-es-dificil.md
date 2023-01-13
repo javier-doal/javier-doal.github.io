@@ -15,7 +15,7 @@ La primera vez que revisé partidas jugadas por *TD-Gammon* (el primer programa 
 	
 ![Diagrama 01.png]({{ site.baseurl }}/images/VsHG_Diagrama_01.png)
 
-% ![Diagrama 01.png]({{ site.baseurl }}/images/VsHG-Diagrama-01.png)
+![Diagrama 01.png](/images/VsHG-Diagrama-01.png)
 
 ¿Qué podría ser más obvio que **13/8, 6/5**, verdad? ¡Sin embargo, *TD-Gammon* jugó el aparentemente inexplicable **13/8, 3/2** !  Inicialmente supuse que era una de esas peculiaridades de los programas de redes neuronales. Sabía que en posiciones simples los programas a menudo hacen movimientos extraños (y equivocados) porque su entrenamiento no les da suficiente información para trabajar con los principios correctos. Los expertos humanos generalmente superarán a los *bots* en este tipo de posiciones cuando se trata de pequeñas diferencias técnicas. Bromeé sobre esto con Gerry Tesauro, el inventor de *TD-Gammon*, y lo llamé el *juego extraño de TD*. 
 	
@@ -39,7 +39,7 @@ Como ilustración, supongamos que el Blanco obtiene *6-4* jugando **13/7, 13/9**
 
 ![Diagrama 02.png]({{ site.baseurl }}/images/VsHG_Diagrama_02.png)
 	
-![Diagrama 02.png]({{ site.baseurl }}/images/VsHB_Diagrama_02.png)
+![Diagrama 02.png](/images/VsHB_Diagrama_02.png)
 	
 Empieza a verse un poco feo. Tres fichas en la casilla 3 y las casilla 1 y 2 aún vacías. Esa tercera ficha en la casilla 3 pertenece a la 2, pero no llegará allí a menos que el Azul saque un *1*. La clave es que el Azul sacó ese *1* en su turno anterior, y ahí es cuando la ficha debería haberse movido a la casilla 2. Si el Azul hubiera jugado correctamente, la posición se vería así:
 	
