@@ -1,3 +1,8 @@
+---
+layout: post
+title: Es dificil deshacer tu casa
+---
+
 # Deshacer su casa interior es difícil
 
 https://bkgm.com/articles/GOL/Nov99/break.htm
