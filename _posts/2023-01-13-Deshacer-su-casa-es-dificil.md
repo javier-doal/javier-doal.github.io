@@ -13,7 +13,8 @@ https://bkgm.com/articles/GOL/Nov99/break.htm
 	
 La primera vez que revisé partidas jugadas por *TD-Gammon* (el primer programa de juego de Backgammon de red neuronal), busqué jugadas inusuales que fueran diferentes de lo que yo hubiera hecho. Un tema recurrente que noté fue que *TD-Gammon* a menudo en un juego de espera (holding game) deshacía su casa interior, sin razón aparente. Por ejemplo:
 	
-![Diagrama 01.png]({{ site.baseurl }}/images/VsHBDiagrama_01.png)
+![Diagrama 01.png]({{ site.baseurl }}/images/VsHB_Diagrama_01.png)
+![_config.yml]({{ site.baseurl }}/images/VsHB_Diagrama_01.png)
 	
 ¿Qué podría ser más obvio que **13/8, 6/5**, verdad? ¡Sin embargo, *TD-Gammon* jugó el aparentemente inexplicable **13/8, 3/2** !  Inicialmente supuse que era una de esas peculiaridades de los programas de redes neuronales. Sabía que en posiciones simples los programas a menudo hacen movimientos extraños (y equivocados) porque su entrenamiento no les da suficiente información para trabajar con los principios correctos. Los expertos humanos generalmente superarán a los *bots* en este tipo de posiciones cuando se trata de pequeñas diferencias técnicas. Bromeé sobre esto con Gerry Tesauro, el inventor de *TD-Gammon*, y lo llamé el *juego extraño de TD*. 
 	
