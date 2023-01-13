@@ -39,13 +39,11 @@ Como ilustración, supongamos que el Blanco obtiene *6-4* jugando **13/7, 13/9**
 
 ![Diagrama 02.png]({{ site.baseurl }}/images/VsHG_Diagrama_02.png)
 	
-![Diagrama 02.png](/images/VsHB_Diagrama_02.png)
-
-![Diagrama 02](/images/VsHG-Diagrama-02.png)
+![Diagrama 02](/images/VsHG_Diagrama_02.png)
 	
 Empieza a verse un poco feo. Tres fichas en la casilla 3 y las casilla 1 y 2 aún vacías. Esa tercera ficha en la casilla 3 pertenece a la 2, pero no llegará allí a menos que el Azul saque un *1*. La clave es que el Azul sacó ese *1* en su turno anterior, y ahí es cuando la ficha debería haberse movido a la casilla 2. Si el Azul hubiera jugado correctamente, la posición se vería así:
 	
-![Diagrama 03.png]({{ site.baseurl }}/images/VsHB_Diagrama_03.png)
+![Diagrama 03.png]({{ site.baseurl }}/images/VsHG_Diagrama_03.png)
 
 ![Diagrama 03](/images/VsHG-Diagrama-03.png)
 	
@@ -53,7 +51,7 @@ Empieza a verse un poco feo. Tres fichas en la casilla 3 y las casilla 1 y 2 aú
 	
 Reconozco que elegí una secuencia de tiradas particularmente incómoda para que el Azul ilustrara mi punto. Sin embargo, estas secuencias incómodas son las que importan. Si el Azul saca un montón de *2-1*, no habrá ninguna diferencia en cómo jugó las tiradas anteriores, ya que tendrá la oportunidad de volver a colocar sus fichas donde pertenecen. Son los dados grandes, como *6-4*, los que crean la incomodidad si no ha planificado con anticipación y colocado sus fichas correctamente.
 	
-![Diagrama 04.png]({{ site.baseurl }}/images/VsHB_Diagrama_04.png)
+![Diagrama 04.png]({{ site.baseurl }}/images/VsHG_Diagrama_04.png)
 
 ![Diagrama 04](/images/VsHG-Diagrama-04.png)
 	
@@ -61,7 +59,7 @@ El Azul debería jugar **8/1**, no **8/2 5/4**. Esta es una jugada bastante impo
 	
 Lo principal que debe tener en cuenta al considerar este tipo de juego, que deshace su casa interior, es que no será capturado en los próximos dos turnos, por lo que tendrá tiempo para volver a construir su casa. Si está adelantado en la carrera, este es casi siempre el caso; ya que su oponente se quedará atrás para mantener el mayor contacto posible. Sin embargo, si está atrasado en la carrera, deshacer su casa puede darle a su oponente la oportunidad de *pagar ahora y correr*. Por ejemplo:
 	
-![Diagrama 05.png]({{ site.baseurl }}/images/VsHB_Diagrama_05.png){:height 209, :width 389}
+![Diagrama 05.png]({{ site.baseurl }}/images/VsHG_Diagrama_05.png){:height 209, :width 389}
 
 ![Diagrama 05](/images/VsHG-Diagrama-05.png)
 	
@@ -69,7 +67,7 @@ Dado que el Blanco tiene tres fichas en el punto medio, no hay forma de el Azul 
 	
 Una pequeña modificación de la posición puede cambiar las cosas. Considere la siguiente:
 	
-![Diagrama 06.png]({{ site.baseurl }}/images/VsHB_Diagrama_06.png){:height 190, :width 374}
+![Diagrama 06.png]({{ site.baseurl }}/images/VsHG_Diagrama_06.png){:height 190, :width 374}
 
 ![Diagrama 06](/images/VsHG-Diagrama-06.png)
 	
@@ -77,7 +75,7 @@ La misma posición excepto que ahora el Blanco solo tiene dos fichas en su punto
 	
 La mayoría de los jugadores está familiarizada con las jugadas de intercambio de casillas en situaciones de *ataque* (blitz);  en las que cambia para obtener una casilla  más baja, y para tener más constructores apuntando a la casilla vulnerable. Si no puede mover los constructores a la casilla, mueva la casilla hacia los constructores. El mismo principio se puede aplicar en los juegos de retención, utilizando jugadas que deshacen su casa.
 	
-![Diagrama 07.png]({{ site.baseurl }}/images/VsHB_Diagrama_07.png){:height 221, :width 377}
+![Diagrama 07.png]({{ site.baseurl }}/images/VsHG_Diagrama_07.png){:height 221, :width 377}
 
 ![Diagrama 07](/images/VsHG-Diagrama-07.png)
 	
