@@ -42,35 +42,35 @@ Ahora que vemos lo que el Azul está tratando de lograr, queda más claro por qu
 	
 Como ilustración, supongamos que el Blanco obtiene *6-4* jugando **13/7, 13/9** y la siguiente tirada del Azul es *6-4*. Naturalmente el Azul traerá una ficha desde el punto medio. El Azul quiere despejar el punto medio lo antes posible, y quiere mantener repuestos en la casilla 8 para manejar dados difíciles. Si el Azul hubiera jugado **13/8, 6/5**, la posición después de que juegue ahora **13/3** se vería así:
 	
-![Diagrama 02.png](({{ site.baseurl }}/images/VsHB_Diagrama_02.png)
+![Diagrama 02.png]({{ site.baseurl }}/images/VsHB_Diagrama_02.png)
 	
 Empieza a verse un poco feo. Tres fichas en la casilla 3 y las casilla 1 y 2 aún vacías. Esa tercera ficha en la casilla 3 pertenece a la 2, pero no llegará allí a menos que el Azul saque un *1*. La clave es que el Azul sacó ese *1* en su turno anterior, y ahí es cuando la ficha debería haberse movido a la casilla 2. Si el Azul hubiera jugado correctamente, la posición se vería así:
 	
-![Diagrama 03.png]{{ site.baseurl }}/images/VsHB_Diagrama_03.png)
+![Diagrama 03.png]({{ site.baseurl }}/images/VsHB_Diagrama_03.png)
 	
 ¿No es mucho más agradable? Ahora bien, si la siguiente tirada del Azul es algo así como *5-3*, puede jugarlo decentemente sin enredarse. En la posición con tres fichas en la casilla 3 y la casilla 6 despojada, una tirada de *5-3* se juega terriblemente.
 	
 Reconozco que elegí una secuencia de tiradas particularmente incómoda para que el Azul ilustrara mi punto. Sin embargo, estas secuencias incómodas son las que importan. Si el Azul saca un montón de *2-1*, no habrá ninguna diferencia en cómo jugó las tiradas anteriores, ya que tendrá la oportunidad de volver a colocar sus fichas donde pertenecen. Son los dados grandes, como *6-4*, los que crean la incomodidad si no ha planificado con anticipación y colocado sus fichas correctamente.
 	
-![Diagrama 04.png]{{ site.baseurl }}/images/VsHB_Diagrama_04.png)
+![Diagrama 04.png]({{ site.baseurl }}/images/VsHB_Diagrama_04.png)
 	
 El Azul debería jugar **8/1**, no **8/2 5/4**. Esta es una jugada bastante importante. El problema es que si el Azul saca un *6* a continuación, tendrá que despejar su casilla 8 para jugar seguro. Si el Azul ha jugado **8/2, 5/4**, entonces este *6* lo obligará a poner una tercera ficha en la casilla 2, lo cual es horrible por consideraciones de flexibilidad, carrera y construcción del tablero. Después de jugar **8/1**, el Azul pondrá una segunda ficha en la casilla 2, lo cual está bien.
 	
 Lo principal que debe tener en cuenta al considerar este tipo de juego, que deshace su casa interior, es que no será capturado en los próximos dos turnos, por lo que tendrá tiempo para volver a construir su casa. Si está adelantado en la carrera, este es casi siempre el caso; ya que su oponente se quedará atrás para mantener el mayor contacto posible. Sin embargo, si está atrasado en la carrera, deshacer su casa puede darle a su oponente la oportunidad de *pagar ahora y correr*. Por ejemplo:
 	
-![Diagrama 05.png]{{ site.baseurl }}/images/VsHB_Diagrama_05.png){:height 209, :width 389}
+![Diagrama 05.png]({{ site.baseurl }}/images/VsHB_Diagrama_05.png){:height 209, :width 389}
 	
 Dado que el Blanco (Amarillo) tiene tres fichas en el punto medio, no hay forma de el Azul pueda capturar  en la tirada siguiente. Incluso si el Azul deshace su casa, el Blanco no moverá dos fichas desde el punto medio, ni dejará fichas vulnerables. Por lo tanto, el Azul puede y debe jugar **8/6, 4/3**. Esto le facilitará apoderarse de las casillas 4 y 3 en sus próximas tiradas, que es lo que está tratando de conseguir. Hay poco peligro en deshacer temporalmente la casilla 4, ya que el Azul tiene varias tiradas para rehacerlo. Si el Azul en cambio juega **9/6**, tendrá obtener dados perfectos para lograr la casilla 3. Para ver la diferencia, imagine que en la siguiente tirada el Azul lanza *6-1* y observe cómo jugar los dados ambas posiciones.
 	
 Una pequeña modificación de la posición puede cambiar las cosas. Considere la siguiente:
 	
-![Diagrama 06.png]{{ site.baseurl }}/images/VsHB_Diagrama_06.png){:height 190, :width 374}
+![Diagrama 06.png]({{ site.baseurl }}/images/VsHB_Diagrama_06.png){:height 190, :width 374}
 	
 La misma posición excepto que ahora el Blanco solo tiene dos fichas en su punto medio. La diferencia es que el Azul podría capturar en la siguiente tirada. Si el Blanco lanza algo como *5-3*, puede optar por *pagar ahora* y jugar **13/8, 13/10**. Este pago es obviamente más atractivo si la casa del Azul es un desastre. Por lo tanto, el Azul debería jugar el normal *9/6 * en lugar del excéntrico juego de deshacer su casa.
 	
 La mayoría de los jugadores está familiarizada con las jugadas de intercambio de casillas en situaciones de *ataque*(blitz);  en las que cambia para obtener una casilla  más baja, y para tener más constructores apuntando a la casilla vulnerable. Si no puede mover los constructores a la casilla, mueva la casilla hacia los constructores. El mismo principio se puede aplicar en los juegos de retención, utilizando jugadas que deshacen su casa.
 	
-![Diagrama 07.png]{{ site.baseurl }}/images/VsHB_Diagrama_07.png){:height 221, :width 377}
+![Diagrama 07.png]({{ site.baseurl }}/images/VsHB_Diagrama_07.png){:height 221, :width 377}
 	
 Creo que la mejor jugada del Azul es la extraña **13/9, 5/3**. El Blanco definitivamente no dejarán una vulnerabilidad en la próxima tirada, por lo que el Azul puede permitirse deshacer su casa temporalmente. La pérdida de la casilla 5 no es significativa, ya que el Azul la recupera con cualquier tirada excepto *5-2*. La clave es que el Azul se inserta en la casilla 3, que es la próxima que quiere lograr. Si el Azul hace otra jugada, la casilla 3 permanece vacía, y generalmente el Azul podrá insertarse y conseguir la casilla 3; antes de que el Blanco deje una ficha vulnerable, ocasionalmente los dados no cooperarán. En esencia, la jugada **5/3** del Azul activa el constructor de la casilla 11 sin tener que mover la ficha. Naturalmente, si el Blanco tuviera solo dos fichas en el punto medio, el Azul no podría permitirse el lujo de deshacer su casa, ya que el Blanco podría ofrecer una ficha vulnerable y despejar su punto medio.
 	
