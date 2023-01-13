@@ -5,7 +5,6 @@ https://bkgm.com/articles/GOL/Nov99/break.htm
 ## Breaking Up Is Hard to Do
 
 **By Kit Woolsey** #holding_game
-	  id:: 63b1796a-d971-4493-8343-4e477b7d4a2b
 	
 La primera vez que revisé partidas jugadas por *TD-Gammon* (el primer programa de juego de Backgammon de red neuronal), busqué jugadas inusuales que fueran diferentes de lo que yo hubiera hecho. Un tema recurrente que noté fue que *TD-Gammon* a menudo en un juego de espera (holding game) deshacía su casa interior, sin razón aparente. Por ejemplo:
 	
@@ -17,8 +16,8 @@ Un poco más tarde, cuando Gerry había programado *TD-Gammon* para analizar pos
 	
 De improviso, no parece que pueda haber mucha diferencia, incluso si una jugada fuera superior. Los análisis muestran que la diferencia puede ser más significativa de lo que pensamos. Hice que *Snowie* hiciera rodar las dos jugadas (1-ply, sin cubo, 3888 veces cada una con los mismos dados) y los resultados fueron:
 
-	**13/8, 3/2**         **+0.410**
-	**13/8, 6/5**         +0.362
+**13/8, 3/2**         **+0.410**
+**13/8, 6/5**         +0.362
 	
 Es una diferencia bastante significativa para lo que parece ser un *1* casi sin sentido. De acuerdo, el tamaño de la muestra no es enorme, pero con los dados duplicados y la similitud de las posiciones, parece bastante claro que el *juego extraño de TD* es notablemente superior. Este no es un caso aislado. Encontré que este tipo de juego ganó consistentemente en los análisis. ¿Qué esta pasando?
 	
