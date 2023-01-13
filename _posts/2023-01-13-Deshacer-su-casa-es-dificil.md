@@ -15,7 +15,7 @@ La primera vez que revisé partidas jugadas por *TD-Gammon* (el primer programa 
 	
 ![Diagrama 01.png]({{ site.baseurl }}/images/VsHG_Diagrama_01.png)
 
-![Diagrama 01.png]({{ site.baseurl }}/images/VsHG-Diagrama-01.png)
+% ![Diagrama 01.png]({{ site.baseurl }}/images/VsHG-Diagrama-01.png)
 
 ¿Qué podría ser más obvio que **13/8, 6/5**, verdad? ¡Sin embargo, *TD-Gammon* jugó el aparentemente inexplicable **13/8, 3/2** !  Inicialmente supuse que era una de esas peculiaridades de los programas de redes neuronales. Sabía que en posiciones simples los programas a menudo hacen movimientos extraños (y equivocados) porque su entrenamiento no les da suficiente información para trabajar con los principios correctos. Los expertos humanos generalmente superarán a los *bots* en este tipo de posiciones cuando se trata de pequeñas diferencias técnicas. Bromeé sobre esto con Gerry Tesauro, el inventor de *TD-Gammon*, y lo llamé el *juego extraño de TD*. 
 	
@@ -36,6 +36,8 @@ Si el Azul lanza dobles, por supuesto despejará el punto medio y probablemente 
 Ahora que vemos lo que el Azul está tratando de lograr, queda más claro por qué **13/8, 3/2** es superior a **13/8, 6/5**. En primer lugar, tener el repuesto en la casilla 6 es definitivamente una ventaja, ya que aumenta la flexibilidad del Azul. Más importante aún, la separación a la casilla 2 mejora las posibilidades del Azul de aplanar la posición. Después de la división, si una ficha Azul cae en la casilla 3 o en la 2, se ve bien. Si el Azul juega **13/8, 6/5**, entonces necesita que una ficha caiga precisamente en la casilla 2 para que funcione el proceso de aplanado.
 	
 Como ilustración, supongamos que el Blanco obtiene *6-4* jugando **13/7, 13/9** y la siguiente tirada del Azul es *6-4*. Naturalmente el Azul traerá una ficha desde el punto medio. El Azul quiere despejar el punto medio lo antes posible, y quiere mantener repuestos en la casilla 8 para manejar dados difíciles. Si el Azul hubiera jugado **13/8, 6/5**, la posición después de que juegue ahora **13/3** se vería así:
+
+![Diagrama 02.png]({{ site.baseurl }}/images/VsHG_Diagrama_02.png)
 	
 ![Diagrama 02.png]({{ site.baseurl }}/images/VsHB_Diagrama_02.png)
 	
