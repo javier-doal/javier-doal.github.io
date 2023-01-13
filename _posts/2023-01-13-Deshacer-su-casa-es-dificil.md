@@ -21,7 +21,7 @@ Un poco más tarde, cuando Gerry había programado *TD-Gammon* para analizar pos
 	
 De improviso, no parece que pueda haber mucha diferencia, incluso si una jugada fuera superior. Los análisis muestran que la diferencia puede ser más significativa de lo que pensamos. Hice que *Snowie* hiciera rodar las dos jugadas (1-ply, sin cubo, 3888 veces cada una con los mismos dados) y los resultados fueron:
 
-| Jugada | ... |  Equidad | 
+| Jugada | \... |  Equidad | 
 |---|---|---|
 | **13/8, 3/2** |  | **+0.410** | 
 | **13/8, 6/5** |  | +0.362 | 
