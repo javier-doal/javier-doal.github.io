@@ -13,7 +13,7 @@ https://bkgm.com/articles/GOL/Nov99/break.htm
 	
 La primera vez que revisé partidas jugadas por *TD-Gammon* (el primer programa de juego de Backgammon de red neuronal), busqué jugadas inusuales que fueran diferentes de lo que yo hubiera hecho. Un tema recurrente que noté fue que *TD-Gammon* a menudo en un juego de espera (holding game) deshacía su casa interior, sin razón aparente. Por ejemplo:
 	
-![Diagrama 01.png]({{ site.baseurl }}/images/VsHB_Diagrama_01.png)
+![Diagrama 01.png]({{ site.baseurl }}/images/VsHG_Diagrama_01.png)
 
 
 ![_config.yml]({{ site.baseurl }}/images/VsHB_Diagrama_01.png)
