@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Es dificil deshacer tu casa
+title: Es dificil deshacer su casa
 ---
 
 # Deshacer su casa interior es difícil
