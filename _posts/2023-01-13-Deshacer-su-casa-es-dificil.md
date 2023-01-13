@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Es difícil deshacer su casa
+title: Deshacer su casa interior es difícil
 ---
 
-# Deshacer su casa interior es difícil
+Traducción aproximada de:
+
+# Breaking Up Is Hard to Do
 
 https://bkgm.com/articles/GOL/Nov99/break.htm
-
-## Breaking Up Is Hard to Do
 
 **By Kit Woolsey** #holding_game
 	
