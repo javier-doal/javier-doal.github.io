@@ -3,15 +3,11 @@ layout: post
 title: Deshacer su casa interior es difícil
 ---
 
-Traducción aproximada de:
-
 # Breaking Up Is Hard to Do
 
-https://bkgm.com/articles/GOL/Nov99/break.htm
-
-**By Kit Woolsey** #holding_game
+Traducción aproximada de: <https://bkgm.com/articles/GOL/Nov99/break.htm> **By Kit Woolsey**
 	
-La primera vez que revisé partidas jugadas por *TD-Gammon* (el primer programa de juego de Backgammon de red neuronal), busqué jugadas inusuales que fueran diferentes de lo que yo hubiera hecho. Un tema recurrente que noté fue que *TD-Gammon* a menudo en un juego de espera (holding game) deshacía su casa interior, sin razón aparente. Por ejemplo:
+La primera vez que revisé partidas jugadas por *TD-Gammon* (el primer programa de juego de Backgammon de red neuronal), busqué jugadas inusuales que fueran diferentes de lo que yo hubiera hecho. Un tema recurrente que noté fue que *TD-Gammon* a menudo en un juego de espera (*holding game*) deshacía su casa interior, sin razón aparente. Por ejemplo:
 	
 ![Diagrama 01](/images/VsHG-Diagrama-01.png)
 
