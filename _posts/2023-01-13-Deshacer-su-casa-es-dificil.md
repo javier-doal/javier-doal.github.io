@@ -15,10 +15,13 @@ La primera vez que revisé partidas jugadas por *TD-Gammon* (el primer programa 
 	
 ![Diagrama 01.png]({{ site.baseurl }}/images/VsHB_Diagrama_01.png)
 
+
 ![_config.yml]({{ site.baseurl }}/images/VsHB_Diagrama_01.png)
 
+
 ![_config.yml]({{ site.baseurl }}/images/config.png)
-	
+
+
 ¿Qué podría ser más obvio que **13/8, 6/5**, verdad? ¡Sin embargo, *TD-Gammon* jugó el aparentemente inexplicable **13/8, 3/2** !  Inicialmente supuse que era una de esas peculiaridades de los programas de redes neuronales. Sabía que en posiciones simples los programas a menudo hacen movimientos extraños (y equivocados) porque su entrenamiento no les da suficiente información para trabajar con los principios correctos. Los expertos humanos generalmente superarán a los *bots* en este tipo de posiciones cuando se trata de pequeñas diferencias técnicas. Bromeé sobre esto con Gerry Tesauro, el inventor de *TD-Gammon*, y lo llamé el *juego extraño de TD*. 
 	
 Un poco más tarde, cuando Gerry había programado *TD-Gammon* para analizar posiciones, le pedí que analizará un par de estos tipos de jugadas, solo para estar seguro. Para mi sorpresa, las *jugadas extrañas de TD* superaron consistentemente a las jugadas normales en el análisis. Esto era otra cosa. Si bien el programa podría tener algunas ideas extrañas, generalmente funcionó bien y era difícil ver cómo podría arruinar los análisis para una posición como esta. Incluso si hubiera algún tipo de sesgo en los juegos de retención del programa, las posiciones después de las dos jugadas en cuestión son tan similares que el sesgo ciertamente se aplicaría a cualquiera de los dos juegos, por lo que los resultados del análisis serían precisos. El valor absoluto puede no ser correcto, si el *bot* está jugando mal en un lado o en el otro, pero los resultados relativos entre las dos jugadas casi tienen que ser precisos.
