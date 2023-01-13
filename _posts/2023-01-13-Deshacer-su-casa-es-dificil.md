@@ -21,12 +21,12 @@ Un poco más tarde, cuando Gerry había programado *TD-Gammon* para analizar pos
 	
 De improviso, no parece que pueda haber mucha diferencia, incluso si una jugada fuera superior. Los análisis muestran que la diferencia puede ser más significativa de lo que pensamos. Hice que *Snowie* hiciera rodar las dos jugadas (1-ply, sin cubo, 3888 veces cada una con los mismos dados) y los resultados fueron:
 
-| Jugada | --- |  Equidad | 
+| Jugada | ... |  Equidad | 
 |---|---|---|
 | **13/8, 3/2** |  | **+0.410** | 
 | **13/8, 6/5** |  | +0.362 | 
 	
-Es una diferencia bastante significativa para lo que parece ser un ***1*** casi sin sentido. De acuerdo, el tamaño de la muestra no es enorme, pero con los dados duplicados y la similitud de las posiciones, parece bastante claro que el *juego extraño de TD* es notablemente superior. Este no es un caso aislado. Encontré que este tipo de juego ganó consistentemente en los análisis. ¿Qué esta pasando?
+Es una diferencia bastante significativa para lo que parece ser un ***1*** casi sin sentido. De acuerdo, el tamaño de la muestra no es enorme, pero con los dados duplicados y la similitud de las posiciones, parece bastante claro que el *juego extraño de TD* es notablemente superior. Este no es un caso aislado. Encontré que este tipo de juego ganó consistentemente en los análisis. ¿Qué está pasando?
 	
 Miremos hacia adelante y veamos cómo es probable que continúe el juego. Está claro que el Azul no va a ser capturado durante bastante tiempo. El Blanco está atrasado en la carrera, por lo que incluso si tuviera una tirada gratis para despejar el punto de barra, preferiría permanecer allí para mantener el contacto. Solo si el Blanco sacará un doble elevado, consideraría dejar el ancla. Por lo tanto, no hay una necesidad urgente de cerrar los puntos internos del tablero para las próximas tiradas.
 	
