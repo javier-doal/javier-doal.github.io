@@ -39,8 +39,10 @@ Para cada una de esas posiciones, hice un análisis corto con *Snowie* (144 prue
 *Magriel* jugó **24/23, 20/14**. En mi artículo, argumenté que no debería romper el ancla prematuramente ya que no está en posición de ganar el juego y todavía puede ocuparse de la ficha Blanca aislada. Mi sensación fue que no es un desastre si el Blanco retoma en la casilla 2; el Azul simplemente vuelve a entrar y juega desde allí. Ya no estoy de acuerdo con esto. Jugando **24/23, 8/2** se deja una ficha en un mal lugar. El Azul ha igualado la carrera con esta captura, pero si lo atrapan en su casilla 2, perderá todo el terreno que ha ganado. El Azul tiene la casa interior más fuerte y el Blanco está en la barra, por lo que este es un buen momento para deshacer el ancla y tratar de liberar las fichas. La posición del Blanco está descoordinada, por lo que es poco probable que pueda hacer mucho daño.
 Resultados del análisis: (todos los análisis serán equidades sin cubo doblador).
 
-| **24/23*, 20/14** | +0.087 |
-| **24/23*, 8/2**  | +0.082 |
+| Jugada | \ \  |  Equidad | 
+|---|---|---|
+| **24/23*, 20/14** |  | +0.087 | 
+| **13/8, 6/5** |  | +0.082 | 
 
 Bueno, esto no probó mucho. La opinión de *Snowie* fue que romper el ancla es  superior, pero el análisis estuvo demasiado cerca para ser concluyente.
 
