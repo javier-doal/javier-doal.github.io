@@ -41,8 +41,8 @@ Resultados del análisis: (todos los análisis serán equidades sin cubo doblado
 
 | Jugada | \ \  |  Equidad | 
 |---|---|---|
-| **24/23*, 20/14** |  | +0.087 | 
-| **13/8, 6/5** |  | +0.082 | 
+| **24/23/*, 20/14** |  | +0.087 | 
+| **24/23*, 8/2** |  | +0.082 | 
 
 Bueno, esto no probó mucho. La opinión de *Snowie* fue que romper el ancla es  superior, pero el análisis estuvo demasiado cerca para ser concluyente.
 
