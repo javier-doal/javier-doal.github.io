@@ -51,6 +51,7 @@ Bueno, esto no probó mucho. La opinión de *Snowie* fue que romper el ancla es 
 Por supuesto, la jugada correcta **8/3*, 3/1** ni siquiera fue considerada por nadie en ese momento. ¿Apoderarse de la casilla 1 tan temprano en lo que parece ser una larga batalla posicional? ¡Horror! Actualmente hemos aprendido algo; si bien obtener la casilla 1 no es una ganga, dejar la ficha aislada en 1 esperando ser capturada en el momento equivocado es aún peor. Los *bots* nos han enseñado bastante bien esta lección. No solo **8/3*, 3/1** resuelve este problema, sino que pone al Blanco en la barra y le da al Azul la oportunidad de obtener la casilla 5 del Blanco, que es el ancla que al Azul realmente le gustaría hacer. Hoy jugaría **8/3*, 3/1** sin pensarlo dos veces.
 
 Resultado del análisis:
+
 	**8/3*, 3/1**          -0.300
 	**24/22, 20/15**    -0.314
 	**20/15, 8/6**         -0.377
@@ -64,6 +65,7 @@ La misma partida unas pocas jugadas más tarde; esta vez fue *Meyburg* quien tuv
 *Meyburg* jugó **22/20, 8/5**. Argumenté por **9/7, 8/5**. Mi sensación era que si el Blanco acertaba, entonces el Azul podría volver a su *backgame* en las casilla 5 y 3 (5-3), mientras que si el Azul renunciaba a la casilla 22, se habría ido para siempre. Mirando las cosas en el siglo XXI, he cambiado de tono. La carrera está reñida y el Azul pierde mucho terreno si lo capturan. Un *backgame* 5-3 simplemente no es probable que funcione. El momento general es incorrecto: el Blanco tiene demasiadas fichas con las que jugar en las casas exteriores. Es más importante para el Azul tener un repuesto en la casilla 20, listo para saltar a la casa exterior; para que pueda realizar un juego de retención decente. Este es el mejor plan.
 
 Resultado del análisis:
+
 	**22/20, 8/5**      +0.046
 	**9/7, 8/5**            -0.026
 
@@ -78,6 +80,7 @@ A la luz de la nueva era, no estoy tan seguro de que mi análisis fuera correcto
 Lo que debe buscar es evitar que su oponente tenga cubos eficientes, que exista una decisión cercana ente el pase/toma. Si el Azul juega **B/18*,** las blancas tienen un buen doble, pero la toma del Azul es muy fácil, no es una decisión reñida. Por otro lado, si el Azul juega **B/23, 13/8**, el Blanco aún no tienen un doble, pero es probable que mejore lentamente hasta que tenga un doble eficiente. En consecuencia, si las dos jugadas son por lo demás iguales, es mejor que el Azul haga la jugada que provoca el cubo, ya que esto obliga al Blanco a hacer un doble ineficiente. Esto puede parecer contrario a lo que dice la intuición, y yo nunca había oído hablar del concepto hace diez años.
 
 Resultado del análisis:
+
 	**B/18***              -0.359
 	**B/23, 13/8**      -0.362
 	
@@ -90,6 +93,7 @@ Así que ahí lo tiene. El análisis tenía las dos jugadas en la foto. El captu
 Desde entonces, he visto que este tema surge a menudo, y los análisis casi siempre favorecen romper el punto medio. La idea es que de todos modos va a tener el problema de despejar el punto medio, si rompe el defensivo punto de barra; y probablemente necesitará dobles para hacerlo. Mientras tanto, jugar **18/11** le expone a una catástrofe inmediata. El mejor plan de juego es romper el punto medio, por lo que si le golpean, no pasará nada malo. Sino, le toca traer la otra ficha a casa, y eso le da mucho tiempo para sentarse y esperar los eventuales dobles. Haría la misma jugada **13/6** que hice hace 10 años.
 
 Resultado del análisis:
+
 	**13/6**            +0.199
 	**18/11**           +0.183
 	
@@ -100,6 +104,7 @@ Bastante cerca, con una ligera inclinación hacia la ruptura del punto medio. Cu
 En este punto, *Mayburg* estaba muy por delante en la partida, lo que explica por qué el cubo permanece en el centro para muchas de las siguientes posiciones. Aquí, *Magriel* eligió jugar **24/23, 6/3**, pensando que debería buscar un ancla mejor antes de que *Meyburg* pusiera más munición en juego. Argumenté que *Magriel* debería sostener el ancla. Está retrasado en la carrera, por lo tanto, el tiempo probablemente seguirá su camino, y las fichas traseras tienen una ruta de escape si es necesario. El gran peligro es ser atacado ya que el Blanco tiene la casa más fuerte. Es mejor intentar ganar la batalla del tiempo.
 
 Resultado del análisis:
+
 	**6/5, 6/3**          -0.445
 	**24/23, 6/3**      -0.595
 	
@@ -120,6 +125,7 @@ Las siguientes cuatro posiciones son todas del mismo juego e involucran decision
 En realidad, si el Azul quiere romper el ancla, es mejor que corra todo el camino con **24/17** que hacer la jugada de *Magriel*. Esto resolverá sus problemas de sincronización y, si puede sobrevivir al ataque, estará en muy buena forma. Sin embargo, este juego lleva a muchos *Gammons*. Creo que mantener el ancla y trabajar en la ofensiva tiene suficientes posibilidades de ganar sin incrementar los riesgos de sufrir un *Gammon* por los ataques (*blliz*).
 
 Resultado del análisis:
+
 	**13/7, 6/5**         -0.195
 	**24/17**              -0.238
 	**24/23, 13/7**     -0.286
@@ -129,6 +135,7 @@ Resultado del análisis:
 Ahora pasamos al lado del tablero de *Meyburg*, con un *3-2* por jugar. *Meyburg* jugó **24/21, 6/4**. Hay otras jugadas de separación posibles: **24/22, 24/21** o **24/22, 10/7**. Incluso **6/1*** tiene sus méritos, aunque es un tipo de juego completamente diferente. Sin embargo, abogué por sostener el ancla con **10/7, 6/4**. Mi argumento fue que el Azul necesita proteger sus fichas retrasadas mientras trae municiones para el bombardeo; y que una vez que el ataque comience, el Azul no debería tener problemas para escapar. Este argumento me parece papel mojado ahora. El Azul está definitivamente en peligro de perder la batalla de bloqueos. Si el Blanco libera su ficha retrasada o consigue la casilla 4, y Ael zul sigue sentado con dos fichas en la casilla 1 del Blanco, podría estar en un verdadero problema de sincronismo. El Azul tiene que hacer algo, no puede simplemente sentarse en la posición. Era demasiado optimista sobre las posibilidades del Azul de escapar eventualmente. La clave es que el Azul tiene el tablero más fuerte, por lo que no debería preocuparse por ser atacado. Su gran peligro es perder la batalla de bloqueos.
 
 Resultado del análisis:
+
 	**24/21, 6/4**      +0.097
 	**10/7, 6/4**         -0.021
 	
@@ -137,14 +144,16 @@ Resultado del análisis:
 De vuelta al lado del tablero de *Magriel*. Jugó **23/17**. No me gustó nada esta jugada. Se aplican la mayoría de los mismos argumentos: el Blanco tiene el tablero más fuerte y el Azul está en peligro de ser atacado. Además, esta jugada deja varada  la ficha retrasada Azul. Prefería mucho **24/23, 6/1*.** Esto no solo bloquea el ancla, sino que es una gran ancla: el Azul puede escapar del punto 23 con *seises*. Esto sitúa al Azul en una posición bastante decente en la batalla de bloqueos y le da una base desde la cual puede lanzar su propio ataque. La parte mala es la ficha aislada en la casilla 1, pero incluso si el Blanco la captura, la posición del Azul será sólida; y si Blanco falla, el Azul puede jugar planes de bloqueo o de *blitz*, dependiendo de los dados. Este análisis todavía me parece bastante sólido.
 
 Resultado del análisis:
+
 	**24/23, 6/1***     -0.347
 	**23/17**             -0.462
 	
-![BA-Diagrama13.png](/images/BA-Diagrama13_1673982266979.png)
+![BA-Diagrama13.png](/images/BA-Diagrama13.png)
 
 *Magriel* jugó **B/22, 6/4*.** Solo puedo imaginar que se dejó llevar por la pelea que había ocurrido. Esta jugada es demasiado arriesgada. Incluso si se sale con la suya, *Magriel* todavía tiene mucho trabajo por hacer en ambos lados del tablero, y si le explota en la cara, hay un peligro de *Gammon* muy grave. Recomendé conseguir la defensiva casilla 3, y mantengo esa recomendación, no creo que esté cerca. La carrera está reñida, por lo que el Azul tendrá algunas posibilidades de ganar después de que el Blanco libere su ficha trasera, y es posible que el Blanco no pueda liberar esa ficha. El ancla reduce el peligro de sufrir un *Gammon*. *Magriel* simplemente estaba esforzándose demasiado por ganar.
 
 Resultado del análisis:
+
 	**B/22, 24/22**    -0.513
 	**B/22, 6/4***       -0.674
 	
@@ -153,6 +162,7 @@ Resultado del análisis:
 *Meyburg* jugó **24/21, 13/7**. Afirmé que dado que el Azul no está en peligro de ser bloqueado y que el Blanco tiene un montón de fichas en la casilla 8 que están buscando un hogar, el Azul debería jugar **13/7, 11/8**. Hoy no estoy tan seguro. Separar las fichas traseras mejora considerablemente las posibilidades del Azul de conseguir un buen ancla avanzada; y como el Blanco tiene solo dos casillas en su casa y no mucha munición, realmente no hay mucho peligro de ser atacado. En realidad, el argumento más fuerte para **13/7, 11/8** no es que mantenga el ancla; sino que elimina la vulnerabilidad de la casilla 11 al moverla a un lugar valioso, para que el Azul no tenga que preocuparse al respecto en el futuro. Por supuesto, en esos días de dejar vulnerabilidades sin preocupaciones, ni siquiera mencioné este punto. A pesar de esto, creo que ahora prefiero la jugada de *Meyburg*.
 
 Resultado del análisis:
+
 	**24/21, 13/7**     -0.101
 	**13/7, 11/8**        -0.108
 	
@@ -161,6 +171,7 @@ Resultado del análisis:
 *Meyburg* jugó **24/21, 9/7**. Critiqué esta jugada por separarse en las fauces de la muerte cuando no era necesario correr tales riesgos. Recomendé apoderarse de la casilla 4, lo que deja una buena posición segura y sólida. Ahora veo que no había tenido en cuenta los problemas de sincronización. El Azul está adelantado en la carrera, el ancla del Blanco está más avanzada que la del Azul, y si el Azul consigue su casilla 4, el Blanco tiene una ruta de escape a través del punto de la barra mientras que el Azul no. Es muy probable que la sincronización vaya en contra del Azul, y se verá obligado a romper su casa en el futuro. Es vital para él hacer un movimiento de liberación o conseguir un ancla avanzada ahora, antes de que el Blanco puedan aportar más municiones. Si el Azul espera, separarse en el futuro será mucho más peligroso. Ahora me gusta más la juagada de *Meyburg*.
 
 Resultado del análisis:
+
 	**24/21, 9/7**      -0.330
 	**7/4, 6/4**          -0.416
 	
