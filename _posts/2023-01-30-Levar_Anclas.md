@@ -40,7 +40,7 @@ Para cada una de esas posiciones, hice un análisis corto con *Snowie* (144 prue
 Resultados del análisis: (todos los análisis serán equidades sin cubo doblador).
 
 	**24/23*, 20/14**     +0.087
-	**24/23*, 8/2**         +0.082
+	**24/23*, 8/2**       +0.082
 
 Bueno, esto no probó mucho. La opinión de *Snowie* fue que romper el ancla es  superior, pero el análisis estuvo demasiado cerca para ser concluyente.
 
@@ -95,7 +95,7 @@ Resultado del análisis:
 	
 Bastante cerca, con una ligera inclinación hacia la ruptura del punto medio. Cuanto más lo miro, mejor parece ser este enfoque.
 
-![BA-Diagrama08.png](/images/BA-Diagrama08_0.png)
+![BA-Diagrama08.png](/images/BA-Diagrama08.png)
 
 En este punto, *Mayburg* estaba muy por delante en la partida, lo que explica por qué el cubo permanece en el centro para muchas de las siguientes posiciones. Aquí, *Magriel* eligió jugar **24/23, 6/3**, pensando que debería buscar un ancla mejor antes de que *Meyburg* pusiera más munición en juego. Argumenté que *Magriel* debería sostener el ancla. Está retrasado en la carrera, por lo tanto, el tiempo probablemente seguirá su camino, y las fichas traseras tienen una ruta de escape si es necesario. El gran peligro es ser atacado ya que el Blanco tiene la casa más fuerte. Es mejor intentar ganar la batalla del tiempo.
 
