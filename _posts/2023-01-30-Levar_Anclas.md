@@ -39,8 +39,8 @@ Para cada una de esas posiciones, hice un análisis corto con *Snowie* (144 prue
 *Magriel* jugó **24/23, 20/14**. En mi artículo, argumenté que no debería romper el ancla prematuramente ya que no está en posición de ganar el juego y todavía puede ocuparse de la ficha Blanca aislada. Mi sensación fue que no es un desastre si el Blanco retoma en la casilla 2; el Azul simplemente vuelve a entrar y juega desde allí. Ya no estoy de acuerdo con esto. Jugando **24/23, 8/2** se deja una ficha en un mal lugar. El Azul ha igualado la carrera con esta captura, pero si lo atrapan en su casilla 2, perderá todo el terreno que ha ganado. El Azul tiene la casa interior más fuerte y el Blanco está en la barra, por lo que este es un buen momento para deshacer el ancla y tratar de liberar las fichas. La posición del Blanco está descoordinada, por lo que es poco probable que pueda hacer mucho daño.
 Resultados del análisis: (todos los análisis serán equidades sin cubo doblador).
 
-	**24/23*, 20/14**     +0.087
-	**24/23*, 8/2**       +0.082
+**24/23*, 20/14**     +0.087
+**24/23*, 8/2**       +0.082
 
 Bueno, esto no probó mucho. La opinión de *Snowie* fue que romper el ancla es  superior, pero el análisis estuvo demasiado cerca para ser concluyente.
 
@@ -52,9 +52,9 @@ Por supuesto, la jugada correcta **8/3*, 3/1** ni siquiera fue considerada por n
 
 Resultado del análisis:
 
-	**8/3*, 3/1**          -0.300
-	**24/22, 20/15**    -0.314
-	**20/15, 8/6**         -0.377
+**8/3*, 3/1**          -0.300
+**24/22, 20/15**    -0.314
+**20/15, 8/6**         -0.377
 	
 Conseguir la casilla 1 y la jugada de *Magriel* quedaron muy cerca, probablemente por el valor de conseguir la casilla 15. Mi jugada sugerida salió mal parada.
 
@@ -66,8 +66,8 @@ La misma partida unas pocas jugadas más tarde; esta vez fue *Meyburg* quien tuv
 
 Resultado del análisis:
 
-	**22/20, 8/5**      +0.046
-	**9/7, 8/5**            -0.026
+**22/20, 8/5**      +0.046
+**9/7, 8/5**            -0.026
 
 ![BA-Diagrama06.png](/images/BA-Diagrama06.png)
 
@@ -81,8 +81,8 @@ Lo que debe buscar es evitar que su oponente tenga cubos eficientes, que exista 
 
 Resultado del análisis:
 
-	**B/18***              -0.359
-	**B/23, 13/8**      -0.362
+**B/18***              -0.359
+**B/23, 13/8**      -0.362
 	
 Así que ahí lo tiene. El análisis tenía las dos jugadas en la foto. El captura ganó más juegos y más *Gammons*, como era de esperar, pero perdió considerablemente más *Gammons*, lo que casi compensó las ganancias adicionales. Si la implementación está dando resultados verdaderos, entonces **B/18*** probablemente sea correcto debido al análisis que provoca el cubo. Si tuviera que hacer una jugada en 2 segundos, estoy bastante seguro de que habría golpeado hoy, pero no sé qué habría hecho en la mesa.
 
@@ -94,8 +94,8 @@ Desde entonces, he visto que este tema surge a menudo, y los análisis casi siem
 
 Resultado del análisis:
 
-	**13/6**            +0.199
-	**18/11**           +0.183
+**13/6**            +0.199
+**18/11**           +0.183
 	
 Bastante cerca, con una ligera inclinación hacia la ruptura del punto medio. Cuanto más lo miro, mejor parece ser este enfoque.
 
@@ -105,8 +105,8 @@ En este punto, *Mayburg* estaba muy por delante en la partida, lo que explica po
 
 Resultado del análisis:
 
-	**6/5, 6/3**          -0.445
-	**24/23, 6/3**      -0.595
+**6/5, 6/3**          -0.445
+**24/23, 6/3**      -0.595
 	
 El análisis respalda mi análisis a lo grande. La separación recibe *Gammon* con mucha más frecuencia y ni siquiera gana tantos juegos.
 
@@ -126,9 +126,9 @@ En realidad, si el Azul quiere romper el ancla, es mejor que corra todo el camin
 
 Resultado del análisis:
 
-	**13/7, 6/5**         -0.195
-	**24/17**              -0.238
-	**24/23, 13/7**     -0.286
+**13/7, 6/5**         -0.195
+**24/17**              -0.238
+**24/23, 13/7**     -0.286
 	
 ![BA-Diagrama11.png](/images/BA-Diagrama11.png)
 
@@ -136,8 +136,8 @@ Ahora pasamos al lado del tablero de *Meyburg*, con un *3-2* por jugar. *Meyburg
 
 Resultado del análisis:
 
-	**24/21, 6/4**      +0.097
-	**10/7, 6/4**         -0.021
+**24/21, 6/4**      +0.097
+**10/7, 6/4**         -0.021
 	
 ![BA-Diagrama12.png](/images/BA-Diagrama12.png)
 
@@ -145,8 +145,8 @@ De vuelta al lado del tablero de *Magriel*. Jugó **23/17**. No me gustó nada e
 
 Resultado del análisis:
 
-	**24/23, 6/1***     -0.347
-	**23/17**             -0.462
+**24/23, 6/1***     -0.347
+**23/17**             -0.462
 	
 ![BA-Diagrama13.png](/images/BA-Diagrama13.png)
 
@@ -154,8 +154,8 @@ Resultado del análisis:
 
 Resultado del análisis:
 
-	**B/22, 24/22**    -0.513
-	**B/22, 6/4***       -0.674
+**B/22, 24/22**    -0.513
+**B/22, 6/4***       -0.674
 	
 ![BA-Diagrama14.png](/images/BA-Diagrama14.png)
 
@@ -163,8 +163,8 @@ Resultado del análisis:
 
 Resultado del análisis:
 
-	**24/21, 13/7**     -0.101
-	**13/7, 11/8**        -0.108
+**24/21, 13/7**     -0.101
+**13/7, 11/8**        -0.108
 	
 ![BA-Diagrama15.png](/images/BA-Diagrama15.png)
 
@@ -172,7 +172,7 @@ Resultado del análisis:
 
 Resultado del análisis:
 
-	**24/21, 9/7**      -0.330
-	**7/4, 6/4**          -0.416
+**24/21, 9/7**      -0.330
+**7/4, 6/4**          -0.416
 	
 Así que ahí lo tienen, varias jugadas controvertidas de ruptura de anclas donde a menudo hubo fuertes argumentos para ambos lados. En varias de ellas, el jugador de la mesa o yo mismo estábamos muy equivocados. Tomar la decisión correcta en estas decisiones puede cambiar mucho la equidad.
