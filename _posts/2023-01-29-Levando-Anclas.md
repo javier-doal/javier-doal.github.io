@@ -3,7 +3,7 @@ layout: post
 title: Levando Anclas
 ---
 
-# Breaking the Anchor
+## Breaking the Anchor
 
 Traducción aproximada del Artículo de **Kit Woolsey**, publicado en *Backgammon Galore* : 
 <https://bkgm.com/articles/GOL/Sep02/anchor.htm>
