@@ -3,7 +3,7 @@ layout: post
 title: Deshacer su casa interior es difícil
 ---
 
-# Breaking Up Is Hard to Do
+## Breaking Up Is Hard to Do
 
 Traducción aproximada del Artículo de **Kit Woolsey**, publicado en *Backgammon Galore* : <https://bkgm.com/articles/GOL/Nov99/break.htm>
 
