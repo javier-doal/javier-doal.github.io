@@ -41,7 +41,7 @@ Here is a minimal example:
 	<script>
 		var bgBoard1 = new BgBoard({
 			/* Base URL of the bgboard installation. */
-			filesRoot : '/',
+			filesRoot : 'https://github.com/javier-doal/javier-doal.github.io/tree/master/bgboard',
 			/* CSS selector for the containing div element. */
 			containerSelector : '#board1',
 			/* Scale the board size, for example 0.5 is half size. */
