@@ -9,6 +9,7 @@
 		<div id=board1></div>
 	</body>
 	<script>
+		var bggnuId = getParameterByName('bgId');
 		var bgBoard1 = new BgBoard({
 			/* Base URL of the bgboard installation. */
 			filesRoot : 'https://web-asuntos-varios-javier.on.drv.tw/BlogBG/bgboard/',
@@ -21,7 +22,7 @@
 			 * where p is the GNU Backgammon Position ID
 			 * and m is the GNU Backgammon Match ID.
 			*/
-			gnuid : '220sAEBt2yCDAA:UQngAAAAAAAE'
+			gnuid : bggnuId
 		});
 	</script>
 </html>

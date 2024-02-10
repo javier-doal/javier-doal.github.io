@@ -753,7 +753,7 @@ BgBoard.BASE_OVERFLOW_INDICATOR_SIZE = 18;
 BgBoard.POINT_CAPACITY = 5;
 
 BgBoard.CHECKER_IMAGE_URLS = 
-	['/checkers/black_checker.png', '/checkers/white_checker.png'];
+	['/checkers/black_checker_.png', '/checkers/white_checker_.png'];
 
 BgBoard.DOUBLE_OR_ROLL_DECISION = 'DOUBLE_OR_ROLL_DECISION';
 BgBoard.TAKE_OR_DROP_DECISION = 'TAKE_OR_DROP_DECISION';
